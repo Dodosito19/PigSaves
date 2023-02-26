@@ -1,0 +1,56 @@
+[
+    {
+        "categoria":"Educación Infantil CONCEPTOS",
+        "pregunta":"¿Que es un billete?",
+        "respuesta":"Papel impreso ",
+        "incorrecta1":"Un chocolate",
+        "incorrecta2":"Un celular",
+        "incorrecta3":"Un coche",
+        "imagen":"https://icons.iconarchive.com/icons/google/noto-emoji-objects/512/62878-dollar-banknote-icon.png",
+        "object_fit":"cover"
+    },
+
+    {
+        "categoria":"Educación Infantil CONCEPTOS",
+        "pregunta":"¿Que es una moneda?",
+        "respuesta":" Algo para adquirir bienes y servicios",
+        "incorrecta1":"Algo para comerse",
+        "incorrecta2":"Algo para lastimar",
+        "incorrecta3":"Algo para crear un sotfware",
+        "imagen":"https://th.bing.com/th/id/OIP.jQD8wo0j2qxzw3XDfKrxRAHaHa?pid=ImgDet&w=500&h=500&rs=1",
+        "object_fit":"cover"
+    },
+    {
+        "categoria":"Educación Infantil CAMBIO..",
+        "pregunta":"El cambio es lo que queda del billete o moneda que diste para intercambiar algo. Si tu tienes un Billete de 20 pesos y tu chocolate cuesta 12 pesos,¿Cuanto cambio deben de regresarte?",
+        "respuesta":"8 pesos",
+        "incorrecta1":"15 pesos",
+        "incorrecta2":"12 pesos",
+        "incorrecta3":"5 pesos",
+        "imagen":"https://cdn-icons-png.flaticon.com/512/4726/4726398.png",
+        "object_fit":"cover"
+        
+    },
+    {
+        "categoria":"Educacion Infantil AHORRO DE CAMBIO...",
+        "pregunta":"¿Aprendamos un poco en la manera en como puedes ahorrar el cambio de tu moneda o billete, ¿Qué harias? ",
+        "respuesta":"Meter mi cambio en mi cochinito",
+        "incorrecta1":"Darle el cambio a mis papás",
+        "incorrecta2":"Gastarme el cambio en lo que puedas comprar",
+        "incorrecta3":"Darle el cambio a mis amigos",
+        "imagen":"https://media.gq.com.mx/photos/60a54fafee4372271f0b9327/4:3/w_2664,h_1998,c_limit/AHORRAR.jpg",
+        "object_fit":"cover"
+        
+    },
+    {
+        "categoria":"Educacion Infantil AHORRO...",
+        "pregunta":"Si tú tienes un ahorro,¿En que lo gastarías?",
+        "respuesta":"Comida",
+        "incorrecta1":"Juguetes",
+        "incorrecta2":"Ropa",
+        "incorrecta3":"Dulces",
+        "imagen":"https://img.freepik.com/vector-premium/viajando-ilustracion-dibujos-animados-america-sur-nino-comprando-tacos-camion-comida_8751-141.jpg",
+        "object_fit":"cover"
+    }
+
+]

@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(253, 221, 112);
+}
+h1 #seccion{
+    border-style: solid;
+    border: 5px 5px 5px 5px;
+    border-color: #a470fd;
+}
+
+#encabezado {
+    background-color: rgb(145, 200, 118);
+    padding: 30px;
+    font-size: 35px;
+}
+h1 #juegos{
+    color: white;
+    text-align: center;
+}
+
+#imagenes {
+    padding: 30px;
+    height: 1000px;
+    text-align: center;
+    background-color: #a470fd;
+}
+
+
+#imagenes img#ahorcado{
+    height: 300px;
+    width: 30%;
+    float: center;
+    padding: 1em;
+}
+#imagenes img#trivia{
+    height: 300px;
+    width: 30%;
+    float: center;
+    padding: 1em;
+
+}
+
+#encabezado #logo{
+float: left;
+width: 10%;
+height: 130px;
+}
+
+.contenedor{
+   margin-top: 0px;
+    }
+.navegacionp {
+  background-color:rgb(253, 221, 112) ;
+  width: 100%;
+  display: flex;
+    }
+.navegacionp a {
+background-color: rgb(253, 221, 112);
+text-decoration: none;
+display: block;
+margin: auto;
+font-weight: 400;
+padding: 1rem;
+      }

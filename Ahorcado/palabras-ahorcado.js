@@ -1,1 +1,0 @@
-const words = ['dinero','moneda','billete','cochinito','ahorro','cambio','economia','monedero','sol','etherfuse','bitcoin']

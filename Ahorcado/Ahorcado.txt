@@ -1,1 +1,2 @@
-
+Uno de los juegos que implementamos en nuestra plataforma tiene una funciòn como el juego 'ahorcado', el usuraio que quiera jugar, tendrà que adivinar la palabra oculta para poder ganar el juego, cabe decir que estàs palabras tienen relaciòn con temas de educaciòn financiera, por lo cual puede que tengas que aprender conceptos bàscios para acertar la palabra y ganar.
+al ganar tù puedes generar 'tokens' que te serviràn còmo inversiòn mientras se vaya creciendo.
